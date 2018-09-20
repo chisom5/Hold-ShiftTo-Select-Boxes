@@ -17,8 +17,6 @@ After going through the video, i understood two things which are :
 * I have to know the lastCheck and the current to check in between all the item that falls
 
 under them.
-<<<<<<< HEAD
  
 * To view project click https://chisom5.github.io/Hold-ShiftTo-Select-Boxes/
-=======
->>>>>>> f36128b0b328263684c98d3151633b31a8e4dd41
+
